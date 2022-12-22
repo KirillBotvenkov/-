@@ -1,0 +1,15 @@
+C:\Users\Кирилл\Desktop\Новая папка\домашка\bin\Debug\net7.0\домашка.exe
+C:\Users\Кирилл\Desktop\Новая папка\домашка\bin\Debug\net7.0\домашка.deps.json
+C:\Users\Кирилл\Desktop\Новая папка\домашка\bin\Debug\net7.0\домашка.runtimeconfig.json
+C:\Users\Кирилл\Desktop\Новая папка\домашка\bin\Debug\net7.0\домашка.dll
+C:\Users\Кирилл\Desktop\Новая папка\домашка\bin\Debug\net7.0\домашка.pdb
+C:\Users\Кирилл\Desktop\Новая папка\домашка\obj\Debug\net7.0\домашка.csproj.AssemblyReference.cache
+C:\Users\Кирилл\Desktop\Новая папка\домашка\obj\Debug\net7.0\домашка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирилл\Desktop\Новая папка\домашка\obj\Debug\net7.0\домашка.AssemblyInfoInputs.cache
+C:\Users\Кирилл\Desktop\Новая папка\домашка\obj\Debug\net7.0\домашка.AssemblyInfo.cs
+C:\Users\Кирилл\Desktop\Новая папка\домашка\obj\Debug\net7.0\домашка.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\Новая папка\домашка\obj\Debug\net7.0\домашка.dll
+C:\Users\Кирилл\Desktop\Новая папка\домашка\obj\Debug\net7.0\refint\домашка.dll
+C:\Users\Кирилл\Desktop\Новая папка\домашка\obj\Debug\net7.0\домашка.pdb
+C:\Users\Кирилл\Desktop\Новая папка\домашка\obj\Debug\net7.0\домашка.genruntimeconfig.cache
+C:\Users\Кирилл\Desktop\Новая папка\домашка\obj\Debug\net7.0\ref\домашка.dll
